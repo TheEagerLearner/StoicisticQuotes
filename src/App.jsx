@@ -29,7 +29,7 @@ export default function App(){
         </h1>
         <h1 className="pt-4 text-white"><strong>{quoteData.author}</strong></h1>
         <button onClick={getQuote} className="text-white pt-6 p-10 text-3xl">↻</button>
-        <a className=" absolute bottom-10 text-white hover:text-xl" href="https://github.com/TheEagerLearner"><h1>@TheEagerLearner</h1></a>
+        <a className=" absolute bottom-2 text-white hover:text-xl" href="https://github.com/TheEagerLearner"><h1>@TheEagerLearner</h1></a>
       </div>
   )
 
