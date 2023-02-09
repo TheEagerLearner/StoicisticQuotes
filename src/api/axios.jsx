@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL:"https://animechan.vercel.app/api"
+    baseURL:"https://api.themotivate365.com"
 });
